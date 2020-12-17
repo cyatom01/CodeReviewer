@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dtcui.codereviewer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dtcui.codereviewer.MyBundle
 
 class MyApplicationService {
 
